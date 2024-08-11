@@ -1,7 +1,7 @@
 # CodeAlpha_Project_Task-2
-Created a Powerpoint Presentation on Phishing Awareness
+###Created a Powerpoint Presentation on Phishing Awareness
 
-Phishing is a significant threat in the digital world, targeting individuals and organizations to steal sensitive information. By understanding these attacks and learning how to recognize them, you can better safeguard your personal and professional data.
+**Phishing** is a significant threat in the digital world, targeting individuals and organizations to steal sensitive information. By understanding these attacks and learning how to recognize them, you can better safeguard your personal and professional data.
 
 
 ###What is Phishing?
