@@ -9,11 +9,15 @@ Phishing is a type of cyber attack where malicious actors impersonate legitimate
 
 
 ### Types of Phishing Attacks
-Email Phishing: This is the most common form of phishing, where attackers send fraudulent emails appearing to be from reputable sources like banks or service providers. These emails often contain links or attachments that lead to malicious sites or software.
-Spear Phishing: Unlike generic phishing, spear phishing targets specific individuals or organizations. Attackers gather personal information about their target and tailor their approach, making it more convincing and potentially more dangerous.
-Whaling: This is a subtype of spear phishing aimed at high-profile individuals such as executives or important figures within a company. Whaling attacks are more sophisticated and often involve higher stakes, such as confidential corporate information.
-Smishing: Short for SMS phishing, smishing involves sending fraudulent text messages to trick recipients into clicking on malicious links or providing personal information. These texts often appear to come from trusted sources, such as banks or service providers.
-Vishing: Voice phishing, or vishing, involves attackers using phone calls to impersonate trusted entities, such as customer service representatives or government officials. They attempt to extract sensitive information directly from the victim over the phone.
+- **Email Phishing:** This is the most common form of phishing, where attackers send fraudulent emails appearing to be from reputable sources like banks or service providers. These emails often contain links or attachments that lead to malicious sites or software.
+
+- **Spear Phishing:** Unlike generic phishing, spear phishing targets specific individuals or organizations. Attackers gather personal information about their target and tailor their approach, making it more convincing and potentially more dangerous.
+
+- **Whaling:** This is a subtype of spear phishing aimed at high-profile individuals such as executives or important figures within a company. Whaling attacks are more sophisticated and often involve higher stakes, such as confidential corporate information.
+
+- **Smishing:** Short for SMS phishing, smishing involves sending fraudulent text messages to trick recipients into clicking on malicious links or providing personal information. These texts often appear to come from trusted sources, such as banks or service providers.
+
+- **Vishing:** Voice phishing, or vishing, involves attackers using phone calls to impersonate trusted entities, such as customer service representatives or government officials. They attempt to extract sensitive information directly from the victim over the phone.
 
 
 ### Anatomy of a Phishing Email
